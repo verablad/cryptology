@@ -1,0 +1,4 @@
+The secret message
+From Bob to Bob,
+Eve wont find the key,
+That`s all
